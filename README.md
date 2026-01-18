@@ -48,6 +48,6 @@ I enjoy learning new technologies step by step and improving my problem-solving 
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/meghana-js
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: www.linkedin.com/in/meghana-shet
 
 Open to internships, learning opportunities, and collaboration.
