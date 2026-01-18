@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 Hi, I'm Meghana
 
-<!--
-**Meghana-js/Meghana-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Frontend Developer (HTML, CSS)  
+🧠 Learning Python & Machine Learning  
+📌 Open to Internships & Entry-Level Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ℹ️ About Me
+I am a BCA student interested in building clean and simple user interfaces using HTML and CSS.  
+Alongside frontend development, I am currently learning Python and the fundamentals of Machine Learning through practice and mini projects.
+
+I enjoy learning new technologies step by step and improving my problem-solving skills by building small, practical projects.
+
+---
+
+## 🛠️ Skills
+
+### Programming & Data
+- Python (learning)
+- Basic Data Analysis (Pandas, NumPy)
+
+### Frontend
+- HTML
+- CSS
+- Responsive Design (basic)
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📁 Featured Projects
+- **SkillBridge Academy** – Frontend website built using HTML & CSS  
+- **Todo List** – Simple task management website using HTML & CSS  
+- **ML Learning Repository** – Practice notebooks while learning ML concepts
+
+---
+
+## 🌱 Currently Learning
+- Python for data analysis
+- Machine Learning fundamentals
+- Improving frontend UI skills
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/meghana-js
+- LinkedIn: (add your LinkedIn profile link here)
+
+Open to internships, learning opportunities, and collaboration.
