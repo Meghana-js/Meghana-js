@@ -35,7 +35,6 @@ I enjoy learning new technologies step by step and improving my problem-solving 
 ## 📁 Featured Projects
 - **SkillBridge Academy** – Frontend website built using HTML & CSS  
 - **Todo List** – Simple task management website using HTML & CSS  
-- **ML Learning Repository** – Practice notebooks while learning ML concepts
 
 ---
 
