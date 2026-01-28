@@ -1,7 +1,7 @@
 👋 Hi, I'm Meghana
 
 🎓 BCA Student  
-💻 Frontend Developer (HTML, CSS)  
+💻 Frontend Developer (HTML, CSS, Javascript)  
 🧠 Learning Python & Machine Learning  
 📌 Open to Internships & Entry-Level Roles
 
