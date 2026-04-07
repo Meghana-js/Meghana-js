@@ -1,5 +1,5 @@
 👋 Hi, I'm Meghana
-
+ Aspiring Software Developer
 🎓 BCA Student  
 💻 Frontend Developer (HTML, CSS, Javascript)  
 🧠 Learning Python & Machine Learning  
