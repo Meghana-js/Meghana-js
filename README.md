@@ -2,7 +2,7 @@
 
  Aspiring Software Developer
  
-🎓 BCA Student  
+🎓 BCA Graduate  
 💻 Frontend Developer (HTML, CSS, Javascript)  
 🧠 Learning Python & Machine Learning  
 📌 Open to Internships & Entry-Level Roles
