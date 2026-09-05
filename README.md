@@ -10,7 +10,7 @@
 ---
 
 ## ℹ️ About Me
-I am a BCA student interested in building clean and simple user interfaces using HTML and CSS.  
+I am a BCA Graduate interested in building clean and simple user interfaces using HTML and CSS.  
 Alongside frontend development, I am currently learning Python and the fundamentals of Machine Learning through practice and mini projects.
 
 I enjoy learning new technologies step by step and improving my problem-solving skills by building small, practical projects.
