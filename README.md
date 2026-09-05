@@ -1,55 +1,98 @@
 👋 Hi, I'm Meghana
 
- Aspiring Software Developer
- 
-🎓 BCA Graduate  
-💻 Frontend Developer (HTML, CSS, Javascript)  
-🧠 Learning Python & Machine Learning  
-📌 Open to Internships & Entry-Level Roles
+BCA Graduate | Aspiring Software & Application Support Engineer
 
----
+🎓 BCA Graduate
+💻 Python | SQL | HTML | CSS | JavaScript
+🛠️ Application Troubleshooting | Incident Management | Ticket Management
+🧠 Learning Python & Machine Learning
+📌 Open to Entry-Level IT Roles & Internships
 
-## ℹ️ About Me
-I am a BCA Graduate interested in building clean and simple user interfaces using HTML and CSS.  
-Alongside frontend development, I am currently learning Python and the fundamentals of Machine Learning through practice and mini projects.
 
-I enjoy learning new technologies step by step and improving my problem-solving skills by building small, practical projects.
+ℹ️ About Me
 
----
+I am a BCA graduate interested in software development and application support.
 
-## 🛠️ Skills
+I have knowledge of Python, SQL, HTML, CSS, JavaScript, and MySQL, along with application troubleshooting, incident management, ticket management, and problem-solving.
 
-### Programming & Data
-- Python (learning)
-- Basic Data Analysis (Pandas, NumPy)
+I enjoy building practical projects, identifying and resolving technical issues, and continuously learning new technologies.
 
-### Frontend
-- HTML
-- CSS
-- Responsive Design (basic)
 
-### Tools
-- Git & GitHub
-- VS Code
+🛠️ Skills
 
----
+Programming & Database
 
-## 📁 Featured Projects
-- **SkillBridge Academy** – Frontend website built using HTML & CSS  
-- **Todo List** – Simple task management website using HTML & CSS  
-- **WCMS Notes** – Web-based notes website for WCMS subject using HTML, CSS & JavaScript
+• Python
+• SQL
+• MySQL
 
----
+Web Development
 
-## 🌱 Currently Learning
-- Python for data analysis
-- Machine Learning fundamentals
-- Improving frontend UI skills
+• HTML
+• CSS
+• JavaScript
+• Responsive Design
 
----
+Application Support
 
-## 📫 Connect With Me
-- GitHub: https://github.com/meghana-js
-- LinkedIn: www.linkedin.com/in/meghana-shet
+• Troubleshooting
+• Incident Management – Basics
+• Service Desk Management – Basics
+• Ticket Management – Basics
+• Ticketing & Escalation – Basics
 
-Open to internships, learning opportunities, and collaboration.
+Tools & Technologies
+
+• Git & GitHub
+• Linux – Basics
+• REST APIs – Basics
+• VS Code
+• MS Office
+
+Soft Skills
+
+• Communication
+• Problem-Solving
+• Attention to Detail
+• Teamwork
+• Adaptability
+
+
+📁 Featured Projects
+
+🔹 UPI Shield Fraud Detection Engine
+
+Fraud detection application developed using Python, Flask, MySQL, and Machine Learning.
+
+• Processed transaction data
+• Classified transactions as Safe, Suspicious, or Fraudulent
+• Built an interface for fraud monitoring and transaction analysis
+• Applied debugging and problem-solving techniques
+
+🔹 SkillBridge Academy
+
+Frontend website built using HTML and CSS.
+
+🔹 Todo List
+
+Simple task management website built using HTML and CSS.
+
+🔹 WCMS Notes
+
+Web-based notes website built using HTML, CSS, and JavaScript.
+
+
+🌱 Currently Learning
+
+• Python
+• Machine Learning fundamentals
+• Application Support & Service Desk concepts
+• Improving problem-solving and technical skills
+
+
+📫 Connect With Me
+
+GitHub: https://github.com/Meghana-js
+LinkedIn: https://www.linkedin.com/in/meghana-shet
+
+📌 Open to entry-level IT opportunities, internships, and learning opportunities.
