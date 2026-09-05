@@ -69,6 +69,10 @@ Fraud detection application developed using Python, Flask, MySQL, and Machine Le
 • Built an interface for fraud monitoring and transaction analysis
 • Applied debugging and problem-solving techniques
 
+🔹 Resume Builder
+
+Web-based resume builder developed using PHP.
+
 🔹 SkillBridge Academy
 
 Frontend website built using HTML and CSS.
